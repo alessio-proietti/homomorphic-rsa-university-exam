@@ -1,0 +1,15 @@
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/bin/Debug/net7.0/homomorphic-rsa-university-exam
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/bin/Debug/net7.0/homomorphic-rsa-university-exam.deps.json
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/bin/Debug/net7.0/homomorphic-rsa-university-exam.runtimeconfig.json
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/bin/Debug/net7.0/homomorphic-rsa-university-exam.dll
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/bin/Debug/net7.0/homomorphic-rsa-university-exam.pdb
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.csproj.AssemblyReference.cache
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.AssemblyInfoInputs.cache
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.AssemblyInfo.cs
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.csproj.CoreCompileInputs.cache
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.dll
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/refint/homomorphic-rsa-university-exam.dll
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.pdb
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/homomorphic-rsa-university-exam.genruntimeconfig.cache
+/home/alessioproietti/Progetti/HOMOMORPHIC/homomorphic-rsa-university-exam/obj/Debug/net7.0/ref/homomorphic-rsa-university-exam.dll
