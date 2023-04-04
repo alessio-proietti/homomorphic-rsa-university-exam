@@ -23,6 +23,18 @@ namespace HomomorphicRSA
             // https://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding
             Console.WriteLine(Math.Pow(plaintext, exponent) % modulus);
 
+
+            int a = 30;
+            int b = 19;
+
+            while (a > b)
+            {
+                a = a - b;
+            }
+
+
+            Console.WriteLine(a);
+
             squareable = plaintext;
 
             do
@@ -30,10 +42,18 @@ namespace HomomorphicRSA
                 currExponent = exponent & 1;
                 if (currExponent > 0)
                 {
-                    accumulator = accumulator * squareable % modulus;
+                    accumulator = accumulator * squareable;// % modulus;
+                    while (accumulator > modulus)
+                    {
+                        accumulator = accumulator - modulus;
+                    }
                 }
 
-                squareable = squareable * squareable % modulus;
+                squareable = squareable * squareable;// % modulus;
+                while (squareable > modulus)
+                {
+                    squareable = squareable - modulus;
+                }
                 exponent = exponent >> 1;
 
             } while (exponent > 0);
